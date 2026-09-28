@@ -1,0 +1,15 @@
+{
+  "name": "tcg-refurb-shop",
+  "version": "2.1.0",
+  "description": "TCG Refurb Shop with editable, one-time SBX/CNV/CHS starter records.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test starter-records.test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
